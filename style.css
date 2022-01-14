@@ -37,17 +37,17 @@ h1 {
         color: #fcfcfc;
       }
       
-      la {
+      #la {
         float: left;
       }
 
-      la a:hover {
+      #la a:hover {
         background-color: #ddd;
         color: black;
         
       }       
 
-      la a {
+      #la a {
         display: block;
         color: #fbfcfc;
         text-align: center;
@@ -289,17 +289,17 @@ h1 {
           color: #fcfcfc;
         }
         
-        la {
+        #la {
           float: left;
         }
 
-        la a:hover {
+        #la a:hover {
           background-color: #ddd;
           color: black;
           
         }       
 
-        la a {
+        #la a {
           display: block;
           color: #fbfcfc;
           text-align: center;
